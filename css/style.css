@@ -1,3 +1,7 @@
 h1 {
   font-weight: normal;
 }
+
+em { 
+    font-style: italic;
+}
