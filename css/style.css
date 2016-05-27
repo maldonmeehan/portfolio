@@ -2,12 +2,14 @@ h1 {
   font-weight: normal;
 }
 
+h3{
+  font-style: italic;
+}
+
 em {
     font-style: italic;
 }
-
 .important {
-  font-style: italic;
-  color: purple;
-  font-weight: bold;
+  color: gray;
+  font-style: normal;
 }
