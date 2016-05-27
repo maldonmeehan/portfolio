@@ -5,3 +5,9 @@ h1 {
 em {
     font-style: italic;
 }
+
+.important {
+  font-style: italic;
+  color: purple;
+  font-weight: bold;
+}
