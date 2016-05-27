@@ -8,7 +8,7 @@ Description
 This is an Epicodus student project to create a webpage using HTML and CSS that is be the landing page for my web programming portfolio.
 
 Setup
-Open www.thiswebsite.com a browser of your choice
+Open https://github.com/maldonmeehan/portfolio a browser of your choice
 link to site on GitHub Pages
 
 Technologies Used
