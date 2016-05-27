@@ -9,7 +9,11 @@ h3{
 em {
     font-style: italic;
 }
-.important {
+.header {
   color: gray;
   font-style: normal;
+}
+
+.important {
+  color: red;
 }
