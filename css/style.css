@@ -1,14 +1,24 @@
+body {
+    background-color: #d0e4fe;
+
 h1 {
   font-weight: normal;
+  color: gray;
 }
 
 h3{
   font-style: italic;
+  font-family: cursive;
+}
+
+p {
+  font-family: sans-serif;
 }
 
 em {
     font-style: italic;
 }
+
 .header {
   color: gray;
   font-style: normal;
