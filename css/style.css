@@ -1,14 +1,29 @@
 body {
     background-color: #d0e4fe;
+}
 
 h1 {
   font-weight: normal;
   color: gray;
 }
 
+h2{
+  font-family:cursive;
+}
+
 h3{
   font-style: italic;
   font-family: cursive;
+  text-align: center;
+}
+
+h4{
+  color:purple;
+}
+
+h5{
+  color:purple;
+  text-align: center;
 }
 
 p {
