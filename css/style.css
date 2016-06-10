@@ -43,7 +43,7 @@ em {
   color: red;
 }
 
-.jumbotron{
+.jumbotron {
   margin-bottom: 1px;
   background-image: url(../img/plasma.jpg);
   background-position: 0% 25%;
@@ -51,4 +51,19 @@ em {
   background-repeat: no-repeat;
   color: gray;
   text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.img-responsive {
+  float: left;
+  border: 2px solid #4C6A92;
+  padding: 4px;
+  margin: 12px;
+}
+
+.img {
+  float: center;
+  width: 200px;
+  border: 2px solid purple;
+  padding: 4px;
+  margin: 12px;
 }
