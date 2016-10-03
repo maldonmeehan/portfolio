@@ -15,6 +15,7 @@ _This my first independent project. The assignment was to create a webpage using
 * _Establish an internet connection_
 * _Open a web browser_
 * _Visit GitHub Repo: <a href="https://github.com/maldonmeehan/portfolio">https://github.com/maldonmeehan/portfolio</a>_
+*  View the site at: https://rawgit.com/maldonmeehan/portfolio/master/index.html
 * _View the site!_
 
 ## Known Bugs
@@ -23,7 +24,7 @@ _This my first independent project. The assignment was to create a webpage using
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas, or concerns, please feel free to contact Sky at <a href="mailto:sky@epicodus.com">sky@epicodus.com</a> or Maldon at <a href="mailto:maldonmeehan@gmail.com">maldonmeehan@gmail.com</a>._
+_If you run into any issues or have questions, ideas, or concerns, please feel free to contact me on github._
 
 ## Technologies Used
 
@@ -31,9 +32,6 @@ _If you run into any issues or have questions, ideas, or concerns, please feel f
 * _CSS_
 * _JavaScript_
 * _Bootstrap (bootstrap.min.css)_
-* _Atom_
-* _Terminal_
-* _Git_
 
 *MIT License*
 
