@@ -6,21 +6,22 @@
 
 ## Description
 
-_I am currently a student at Epicodus in my first week of the Intro to Programing course. During this first week we learned Git, HTML and CSS. This included the Command Line, GitHub, Block Elements, indentation and spacing, Inline Elements, READMEs, Branching and Merging and Bootstrap._
+I am currently a student at Epicodus in my first week of the Intro to Programing course. During this first week we learned Git, HTML and CSS. This included the Command Line, GitHub, Block Elements, indentation and spacing, Inline Elements, READMEs, Branching and Merging and Bootstrap.
 
-_This my first independent project. The assignment was to create a webpage using HTML and CSS that is be the landing page for my web programming portfolio._
+This my first independent project. The assignment was to create a webpage using HTML and CSS that is be the landing page for my web programming portfolio.
 
 ## Setup/Installation Requirements
 
-* _Establish an internet connection_
-* _Open a web browser_
-* _Visit GitHub Repo: <a href="https://github.com/maldonmeehan/portfolio">https://github.com/maldonmeehan/portfolio</a>_
-*  View the site at: https://rawgit.com/maldonmeehan/portfolio/master/index.html
-* _View the site!_
+* Establish an internet connection
+* Open a web browser
+* ``Git Clone https://github.com/maldonmeehan/portfolio
+``
+*  or View the site at: https://rawgit.com/maldonmeehan/portfolio/master/index.html
+* View the site!
 
 ## Known Bugs
 
-* _non at this time_
+* _none at this time_
 
 ## Support and contact details
 
